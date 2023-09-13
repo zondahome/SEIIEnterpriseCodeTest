@@ -29,8 +29,7 @@ and commit your changes:
 Create your own repository from this template by using the "Use this template" button. For more details
 on this step, see the [github docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-Once you have created a new repository under your own github account containing the code from this template repo, you are ready to continue.
-
+Once you have created a a new repository under your own github account containing the code from this template repo, clone it down to your computer so you can work on it.
 
 ### Api Setup
 
