@@ -48,13 +48,15 @@ Next you will need to create a NodeJS project for your API.
 
 If you are unfamiliar with the steps involved there are plenty of resources online (e.g. [this](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9) [this](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)).
 
-Once you have got your API project up and running, move the `subdivision.json` file into your API folder.
+We suggest that your API project is created in a folder called `api` alongside the existing `web` folder.
+
+Once you have got your API project up and running, copy the `sample-data/subdivision.json` file into your API folder.
 
 ### React App Setup
 
-Change into the React app folder and run `npm install`
+Change into the React app folder (`cd web`) and run `npm install`
 
-Then try running the skeleton app to confirm it is working before you begin making changes: `npm run start`
+Then try running the skeleton app to confirm it is working before you begin making changes: `npm start`
 
 ## The Task
 
