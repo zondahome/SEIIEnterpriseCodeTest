@@ -36,7 +36,7 @@ Once you have created a new repository under your own github account containing 
 
 Next you will need to create a NodeJS project for your API.
 
-If you are unfamiliar with the steps involved there are plenty of resources online (e.g. [this](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9) [this](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)).
+If you are unfamiliar with the steps involved there are plenty of resources online (e.g. [this](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9) and [this](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)).
 
 We suggest that your API project is created in a folder called `api` alongside the existing `web` folder.
 
