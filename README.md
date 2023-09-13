@@ -12,13 +12,6 @@ and extending the skeleton React app so that it fetches the data from your API a
 It is up to you how long you spend on the task but we recommend approximately 1-2 hours. Please read
 all the way through this document before starting as there are important details below.
 
-## Admin and Submitting
-Please create a new branch for your specific test. Name the branch in the format:
-code-test-<YourFullName> so we can recognise your submission. Once you have completed
-the test make sure all your code is pushed to your branch. If you wish you can create 
-a pull request when you are finished but this is not essential (if you do, please set
-the PR title to be the same as your branch name as above).
-
 ## Setup
 
 ### Prerequisites
@@ -33,14 +26,11 @@ and commit your changes:
 
 ### Repo Setup
 
-Within the folder where you want to keep your files whilst working on this test, run
-the following command to clone this repo:
-`git clone git@github.com:zondahome/SEIIEnterpriseCodeTest.git`
+Create your own repository from this template by using the "Use this template" button. For more details
+on this step, see the [github docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
 
-Change to this folder: `cd SEIIEnterpriseCodeTest`
+Once you have created a new repository under your own github account containing the code from this template repo, you are ready to continue.
 
-Then, create your branch:
-`git checkout -b code-test-<YourFullName>` where `<YourFullName>` is replaced with your name.
 
 ### Api Setup
 
@@ -88,6 +78,9 @@ Finally, write some automated tests for the code that has been written.
 If you start to run out of time at this point and don't have time to write all the tests you'd ideally like to add, then just attempt one example test for your API code and one example test for your React app code and just include empty placeholder tests (or comments) listing the tests you didnt have time to write, to show what tests you would have added.
 
 Recommended test tools would be [React Testing Libary](https://testing-library.com/docs/react-testing-library/intro/) for component unit tests for React components and [Jest](https://jestjs.io/) for testing the API, but feel free to use any other automated testing tools you prefer if you are more familiar with them.
+
+## Submitting your work
+When you are finished, please ensure your repo is public so that we will be able to access it, and email us the github repo URL for us to review.
 
 ## Glossary
 
