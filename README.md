@@ -79,7 +79,9 @@ If you start to run out of time at this point and don't have time to write all t
 Recommended test tools would be [React Testing Libary](https://testing-library.com/docs/react-testing-library/intro/) for component unit tests for React components and [Jest](https://jestjs.io/) for testing the API, but feel free to use any other automated testing tools you prefer if you are more familiar with them.
 
 ## Submitting your work
-When you are finished, please ensure your repo is public so that we will be able to access it, and email us the github repo URL for us to review.
+When you are finished, please ensure your repo is public so that we will be able to access it, and email us the github repo URL for us to review. We will review it before your technical interview.
+
+**Important**: Please ensure to submit your work to us no later than the day before your technical interview so that we have time to review it prior to the interview. If you think this will not give you enough time, please let us know in case the technical interview needs to be rescheduled.
 
 ## Glossary
 
